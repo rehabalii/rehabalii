@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/rehabalii/TEST/blob/main/header.svg" alt="Rehab Ali - Data Analyst" width="100%"/>
+<img src="https://github.com/rehabalii/rehabalii/blob/main/header.svg" alt="Rehab Ali - Data Analyst" width="100%"/>
 
 <br/>
 
